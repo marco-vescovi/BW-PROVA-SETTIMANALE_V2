@@ -1,0 +1,3 @@
+CREDENZIALI:
+nome utente =  admin
+password =  admin
